@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/uavishal777" target="blank"><img src="https://img.shields.io/twitter/follow/uavishal777?logo=twitter&style=for-the-badge" alt="uavishal777" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working on **Mobile Application Development.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UAVishal777](https://github.com/UAVishal777)
 
