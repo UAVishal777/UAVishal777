@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 If you want to learn **React-Native** you can connect me.
 
 - 👨‍💻 All of my projects are available at [https://github.com/UAVishal777](https://github.com/UAVishal777)
 
