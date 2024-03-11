@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UAVishal777](https://github.com/UAVishal777)
 
-- 💬 Ask me about **C++, Programming Algorithm and Android Development.**
+- 💬 Ask me about **C++, Programming Algorithms and Android Development.**
 
 - 📫 How to reach me **uavishalmishra786@gmail.com**
 
