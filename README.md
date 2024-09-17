@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
-<h3 align="center">A passionate Android Developer and Coding enthusiast.</h3>
+<h3 align="center">A passionate Mobile Application Developer and Coding enthusiast.</h3>
 <img align="right" width=400 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uavishal777&label=Profile%20views&color=0e75b6&style=flat" alt="uavishal777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/uavishal777" target="blank"><img src="https://img.shields.io/twitter/follow/uavishal777?logo=twitter&style=for-the-badge" alt="uavishal777" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development.**
+- 🔭 I’m currently working on **Java FullStack Development.**
 
 - 🌱 If you want to learn **React-Native** you can connect me.
 
 - 👨‍💻 All of my projects are available at [https://github.com/UAVishal777](https://github.com/UAVishal777)
 
-- 💬 Ask me about **C++, Programming Algorithms and Android Development.**
+- 💬 Ask me about **C++, Programming Algorithms and Mobile Application Development Both in Native and Cross-Platform.**
 
 - 📫 How to reach me **uavishalmishra786@gmail.com**
 
